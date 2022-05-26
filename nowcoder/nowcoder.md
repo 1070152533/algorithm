@@ -168,4 +168,4 @@ module.exports = {
 
 我们这个时候画个图，全流程就出来了。
 
-![BM7_1](\img\BM7_1.svg)
+![BM7_1](/img/BM7_1.svg)
